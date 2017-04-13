@@ -1,6 +1,4 @@
-# Welcome to MoveMate Page
 
-### For students. By students.
 
 MoveMate helps you to find other student to share your daily trip with.
 * Carry other students with your Car/Moto and split the costs
