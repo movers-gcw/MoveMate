@@ -1,7 +1,6 @@
 # Welcome to MoveMate Page
 ![MoveMate](https://github.com/movers-gcw/movemate_android/blob/master/logo.gif)
 
-
 ### For students. By students.
 
 MoveMate helps you to find other student to share your daily trip with.
