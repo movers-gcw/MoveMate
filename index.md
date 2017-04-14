@@ -12,7 +12,7 @@ MoveMate can be installed on all devices that has an **Android opereting system,
 When you will open it for the first time, you will have to log-in with your **facebook account**, enter your phone number and your institutional email address and the game is done!
 
 At this time, you can do two main things:
-* ## Make your route to share it with other students
+* ### Make your route to share it with other students
       To create a new route you can press '+' button on 'My routes' page, selecting if your final route is:
         - From University
         - To University
@@ -20,7 +20,7 @@ At this time, you can do two main things:
       select the number of free places and if you have an helmet more), the starting or arrival department 
       (it's possible to choose all departments of an university), the time and the route name with 
       short description (if you want).
-* ## Find a route made by others
+* ### Find a route made by others
 
 You can see a short functionality illustration below:
 ..[video]..
