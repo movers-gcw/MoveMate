@@ -25,7 +25,7 @@ At this time, you can do two main things:
       follow requested steps specifying vehicle, price and department.
 
 When you find a route, you can press the result item to view details about it.
-Details includes: 
+Details include:
 * Starting address and arrival department (or viceversa)
 * Price per person
 * Maker
