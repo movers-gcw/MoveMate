@@ -16,12 +16,14 @@ At this time, you can do two main things:
       To create a new route you can press '+' button on 'My routes' page, selecting if your final route is:
         - From University
         - To University
-      Than you have to choose the type of vehicle you want use (if it is a motorcycle or car, you can 
+      Then you have to choose the type of vehicle you want use (if it is a motorcycle or car, you can 
       select the number of free places and if you have an helmet more), the starting or arrival department 
       (it's possible to choose all departments of an university), the time and the route name with 
       short description (if you want).
 * ### Find a route made by others
-
+      To find a route from/to university you can press the 'hand lens' button on the top bar and then 
+      follow requested steps specifying vehicle, price and department.
+      
 You can see a short functionality illustration below:
 ..[video]..
 
