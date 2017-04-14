@@ -1,5 +1,3 @@
-
-![icon]()
 MoveMate helps you to find other student to share your daily trip with.
 * Carry other students with your Car/Moto and split the costs
 * Find students who walk your own road and take the same transport with them
