@@ -8,7 +8,7 @@ MoveMate is an application made for university students that will allow to get i
 
 # How it works
 
-MoveMate can be installed on all devices that has an **Android opereting system, from 5.0 version, onwards.**
+MoveMate can be installed on all devices that has an **Android opereting system, from 5.0 version, onwards.** <br>
 When you will open it for the first time, you will have to log-in with your **facebook account**, enter your phone number and your institutional email address and the game is done!
 
 At this time, you can do two main things:
@@ -24,12 +24,12 @@ At this time, you can do two main things:
       To find a route from/to university you can press the 'hand lens' button on the top bar and then 
       follow requested steps specifying vehicle, price and department.
 
-When you find a route, you can press the result item to view details about it.
+When you find a route, you can press the result item to view details about it. <br>
 Details include:
 * Starting address and arrival department (or viceversa)
 * Price per person
 * Maker
-* Mates\n
+* Mates <br>
 By pressing maker or mate's icon you can also view his informations and contact him.
 
 A short video tutorial below:
