@@ -1,5 +1,5 @@
 
-![icon](http://neen4.download.html.it/blog/wp-content/uploads/2013/10/illustrator1.jpg)
+![icon](https://raw.githubusercontent.com/movers-gcw/movers-gcw.github.io/master/logo.png)
 MoveMate helps you to find other student to share your daily trip with.
 * Carry other students with your Car/Moto and split the costs
 * Find students who walk your own road and take the same transport with them
