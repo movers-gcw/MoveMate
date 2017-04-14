@@ -13,7 +13,7 @@ When you will open it for the first time, you will have to log-in with your **fa
 
 At this time, you can do two main things:
 * ## Make your route to share it with other students
-      To make your route you can press '+' button on 'My routes' page, selecting if your final route is:
+      To create a new route you can press '+' button on 'My routes' page, selecting if your final route is:
         - From University
         - To University
       and than you have to choose the type of vehicle you want use (if it is a motorcycle or car, you can select the number         of free place and if you have an helmet more), the starting or arrival department (it's possible to choose all                 departments of an university), the time and the route name with short description (if you want).
