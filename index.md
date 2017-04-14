@@ -23,8 +23,16 @@ At this time, you can do two main things:
 * ### Find a route made by others
       To find a route from/to university you can press the 'hand lens' button on the top bar and then 
       follow requested steps specifying vehicle, price and department.
-      
-You can see a short functionality illustration below:
+
+When you find a route, you can press the result item to view details about it.
+Details includes: 
+* Starting address and arrival department (or viceversa)
+* Price per person
+* Maker
+* Mates
+By pressing maker or mate's icon you can also view his informations and contact him.
+
+A short video tutorial below:
 ..[video]..
 
 # Architecture overview
