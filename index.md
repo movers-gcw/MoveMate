@@ -29,7 +29,7 @@ Details include:
 * Starting address and arrival department (or viceversa)
 * Price per person
 * Maker
-* Mates
+* Mates\n
 By pressing maker or mate's icon you can also view his informations and contact him.
 
 A short video tutorial below:
