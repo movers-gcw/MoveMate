@@ -51,7 +51,7 @@ A short video tutorial below:
  <section id="team-items">
  
    <section class="btn">
-     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"> </section>
+     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="80"> </section>
     <section class="btn" style="text-align: left;">
     <h3 style="color: gray;">Davide Iannotta</h3>
     <h4 style="color: lightgray;">Computer Engineering student at La Sapienza</h4>
