@@ -41,15 +41,19 @@ A short video tutorial below:
 
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
+
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: $header-heading-color; text-align: center;">
-Hi every body!
+ Hi every body!
+ <br>
+ We are:
 
-We are:
-
-<section id="team-items">
- <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2); color: darkgray;"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2); color: darkgray;"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2); color: darkgray;"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
-</section>
+ <section id="team-items">
+   
+   <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;">
+   <img src="logo.gif" alt="su" width="50">
+   <br><h3>Davide</h3><br><section><img src="sapienzaicon.jpg" alt="uni" width="40">&nbsp;<h4>Computer Engineering student at La Sapienza</h4></section>
+   </section>
+   
+ </section>
 </section>
