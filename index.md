@@ -46,13 +46,8 @@ A short video tutorial below:
 <section class="site-footer" style="color: gray; text-align: left;">
 
  <section id="team-items">
- <style>
- table{
- border: 0;
- }
- </style>
  
-   <table>
+   <table style="border: 0;">
     <tr>
      <td><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="andr-pic.jpg" alt="su" width="150"></td>
      <td width="400"><section class="btn" style="text-align: left;">
