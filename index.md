@@ -49,8 +49,8 @@ Hi every body!
 We are:
 
 <section id="team-items">
- <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
