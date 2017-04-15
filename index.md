@@ -43,7 +43,7 @@ A short video tutorial below:
 ...
 
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
-<section class="site-footer page-header"> <!-- style="color: $header-heading-color; text-align: center;" -->
+<section class="site-footer" style="color: $header-heading-color; text-align: center;">
  Hi every body!
  <br>
  We are:
@@ -52,7 +52,7 @@ A short video tutorial below:
    
    <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;">
    <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><img src="logo.gif" alt="su" width="50"></section>
-   <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><h3>Davide Iannotta</h3></section><br><section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><img src="sapienzaicon.jpg" alt="uni" width="40"><h4>Computer Engineering student at La Sapienza</h4></section>
+   <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><h3>Davide Iannotta</h3></section><br><section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><h4><img src="sapienzaicon.jpg" alt="uni" width="40">Computer Engineering student at La Sapienza</h4></section>
    </section>
    
  </section>
