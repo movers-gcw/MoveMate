@@ -8,30 +8,30 @@ MoveMate is an application made for university students that will allow to get i
 
 # How it works
 
-MoveMate can be installed on all devices that has an **Android opereting system, from 5.0 version, onwards.** <br>
-When you will open it for the first time, you will have to log-in with your **facebook account**, enter your phone number and your institutional email address and the game is done!
+MoveMate can be installed on all devices with an **Android operating system, from 5.0 version, onwards.** <br>
+When you will open it for the first time, you will have to log-in with your **facebook account**, enter your phone number and your institutional email address and the game will be done!
 
-At this time, you can do two main things:
+You will then be able to do two main things:
 * ### Make your route to share it with other students
-      To create a new route you can press '+' button on 'My routes' page, selecting if your final route is:
+      To create a new route you be able to press '+' button on 'My routes' page, selecting if your final route will be:
         - From University
         - To University
-      Then you have to choose the type of vehicle you want use (if it is a motorcycle or car, you can 
-      select the number of free places and if you have an helmet more), the starting or arrival department 
-      (it's possible to choose all departments of an university), the time and the route name with 
-      short description (if you want).
+      Then you will have to choose the type of vehicle you will want use (if it will be a motorcycle or car, 
+      you be able to select the number of free places and if you will have an helmet more), the starting or arrival department 
+      (it will be possible to choose all departments of an university), the time and the route name with 
+      short description (if you will want).
 * ### Find a route made by others
-      To find a route from/to university you can press the 'hand lens' button on the top bar and then 
+      To find a route from/to university you be able to press the 'hand lens' button on the top bar and then 
       follow requested steps specifying vehicle, price and department.
 
-When you find a route, you can press the result item to view details about it. <br>
-Details include:
+When you will going to find a route, you will be able to press the result item to view its details. <br>
+Details will include:
 * Starting address and arrival department (or viceversa)
 * Price per person
 * Maker
 * Mates
 
-By pressing maker or mate's icon you can also view his informations and contact him.
+By pressing maker or mate's icon you will be able to also view his informations and contact him.
 
 A short video tutorial below:
 ..[video]..
