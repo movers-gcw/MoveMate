@@ -51,8 +51,8 @@ A short video tutorial below:
  <section id="team-items">
    
    <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;">
-   <img src="logo.gif" alt="su" width="50">
-   <br><h3>Davide</h3><br><section><img src="sapienzaicon.jpg" alt="uni" width="40">&nbsp;<h4>Computer Engineering student at La Sapienza</h4></section>
+   <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><img src="logo.gif" alt="su" width="50"></section>
+   <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><h3>Davide Iannotta</h3></section><br><section><img src="sapienzaicon.jpg" alt="uni" width="40"><h4>Computer Engineering student at La Sapienza</h4></section>
    </section>
    
  </section>
