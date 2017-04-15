@@ -46,6 +46,11 @@ A short video tutorial below:
 <section class="site-footer" style="color: gray; text-align: left;">
 
  <section id="team-items">
+ <style>
+ table{
+ border: 0;
+ }
+ </style>
  
    <table>
     <tr>
