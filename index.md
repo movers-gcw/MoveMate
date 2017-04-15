@@ -57,7 +57,7 @@ A short video tutorial below:
    </section>
    <br>
    <section class="btn">
-     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="100"> </section>
+     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="edo-pic.jpg" alt="su" width="100"> </section>
     <section class="btn" style="text-align: left;">
     <h3 style="color: black;">Edoardo Puglisi</h3>
     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
