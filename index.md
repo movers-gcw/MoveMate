@@ -50,12 +50,10 @@ A short video tutorial below:
 
  <section id="team-items">
  
-   <section>
-    <section>
+   <section class="btn">
      <section class="btn" style="border-color: rgba(0, 0, 0,0.2); color: gray;"><img src="logo.gif" alt="su" width="50"> </section>
-    </section>
-    <section>
-     <h3>Davide Iannotta</h3>
+    <section class="btn">
+    <h3>Davide Iannotta</h3>
      <h4><img src="sapienzaicon.jpg" alt="uni" width="40"> Computer Engineering student at La Sapienza</h4>
     </section>
    </section>
