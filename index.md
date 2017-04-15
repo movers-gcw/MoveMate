@@ -48,8 +48,8 @@ Hi every body!
 We are:
 
 <section id="team-items">
- <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2); color: darkgray;"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2); color: darkgray;"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="btn" style="border-color: rgba(0, 0, 0,0.2); color: darkgray;"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
