@@ -49,7 +49,7 @@ A short video tutorial below:
  
    <table border="0" bordercolor="white">
     <tr border="0" bordercolor="white">
-     <td><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="andr-pic.jpg" alt="su" width="150"></td>
+     <td border="0" bordercolor="white"><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="andr-pic.jpg" alt="su" width="150"></td>
      <td width="400"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Andrea Bagordo</h3>
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
