@@ -52,9 +52,9 @@ A short video tutorial below:
  
    <section class="btn">
      <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"> </section>
-    <section class="btn" style="text-align: left; color: gray;">
-    ### Davide Iannotta
-    #### Computer Engineering student at La Sapienza
+    <section class="btn" style="text-align: left;">
+    <h3 style="color: gray;">Davide Iannotta</h3>
+    <h4 style="color: lightgray;">Computer Engineering student at La Sapienza</h4>
     </section>
     <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="60"></section>
    </section>
