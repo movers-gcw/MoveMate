@@ -53,7 +53,7 @@ A short video tutorial below:
     <h3 style="color: black;">Davide Iannotta</h3>
     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
     </section>
-    <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="60"></section>
+    <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section>
    </section>
    <br>
    <section class="btn">
@@ -62,7 +62,7 @@ A short video tutorial below:
     <h3 style="color: black;">Edoardo Puglisi</h3>
     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
     </section>
-    <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="60"></section>
+    <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section>
    </section>
    
    
