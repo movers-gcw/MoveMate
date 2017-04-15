@@ -67,15 +67,17 @@ A short video tutorial below:
     <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section>
    </section>
    <br>
-   <section class="btn">
-    <img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150">
-    <section class="btn" style="text-align: left;">
+   <table>
+    <tr>
+    <td><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150"></td>
+    <td><section class="btn" style="text-align: left;">
     <h3 style="color: black;">Edoardo Puglisi</h3>
     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
     <h4 style="color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
-    </section>
-    <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section>
-   </section>
+    </section></td>
+    <td><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
+    </tr>
+   </table>
    
    
  </section>
