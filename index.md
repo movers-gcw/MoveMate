@@ -42,7 +42,7 @@ A short video tutorial below:
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
-<section class="site-footer">
+<section class="site-footer" style="align: center; opacity:0.3;">
 
 Hi every body!
 
