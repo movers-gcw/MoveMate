@@ -36,11 +36,11 @@ By pressing maker or mate's icon you will be able to also view his informations 
 A short video tutorial below:
 ..[video]..
 
-# Architecture overview
+<h1 id="top3"><a href="#top1"><img src="vector-icon.png" alt="su" width="20"></a> Architecture overview </h1>
 ...
 
-# Installation & source code
+<h1 id="top4"><a href="#top1"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
 
-# Team presentation
+<h1 id="top5"><a href="#top1"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 ...
