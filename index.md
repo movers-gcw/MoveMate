@@ -41,8 +41,8 @@ A short video tutorial below:
 
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
-<section class="site-footer page-header">
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
+<section class="site-footer page-header">
 
 Hi every body!
 
