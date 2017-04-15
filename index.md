@@ -49,8 +49,20 @@ Hi every body!
 We are:
 
 <section id="team-items">
- <h3 class="btn"><img class="imageborder" src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="btn"><img class="imageborder" src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="btn"><img class="imageborder" src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="btn"><img style="{ 
+  border: 1px solid #000; 
+  padding: 5px;
+  border-image: url(http://i.imgur.com/47XjVA5l.jpg)
+}" src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="btn"><img style="{ 
+  border: 1px solid #000; 
+  padding: 5px;
+  border-image: url(http://i.imgur.com/47XjVA5l.jpg)
+}" src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="btn"><img style="{ 
+  border: 1px solid #000; 
+  padding: 5px;
+  border-image: url(http://i.imgur.com/47XjVA5l.jpg)
+}" src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
