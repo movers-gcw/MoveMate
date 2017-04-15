@@ -44,20 +44,27 @@ A short video tutorial below:
 
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: gray; text-align: center;">
- Hi every body!
- <br>
- We are:
 
  <section id="team-items">
  
    <section class="btn">
-     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="80"> </section>
+     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="100"> </section>
     <section class="btn" style="text-align: left;">
     <h3 style="color: gray;">Davide Iannotta</h3>
     <h4 style="color: lightgray;">Computer Engineering student at La Sapienza</h4>
     </section>
     <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="60"></section>
    </section>
+   <br>
+   <section class="btn">
+     <section class="btn" style="border-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="100"> </section>
+    <section class="btn" style="text-align: left;">
+    <h3 style="color: gray;">Edoardo Puglisi</h3>
+    <h4 style="color: lightgray;">Computer Engineering student at La Sapienza</h4>
+    </section>
+    <section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="60"></section>
+   </section>
+   
    
  </section>
 </section>
