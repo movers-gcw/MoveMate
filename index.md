@@ -44,59 +44,13 @@ A short video tutorial below:
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: $header-heading-color; text-align: center;">
 
-<style type="text/css"> 
-   .profile {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(0, 255, 200, 0.7);
-  background-color: rgba(0, 255, 200, 0.08);
-  border-color: rgba(0, 255, 200, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-
-  &:hover {
-    color: rgba(0, 255, 200, 0.8);
-    text-decoration: none;
-    background-color: rgba(0, 255, 200, 0.2);
-    border-color: rgba(0, 255, 200, 0.3);
-  }
-
-  + .profile {
-    margin-left: 1rem;
-  }
-
-  @include large {
-    padding: 0.75rem 1rem;
-  }
-
-  @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem;
-
-    + .profile {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-  }
-}
-</style>
-
 Hi every body!
 
 We are:
 
 <section id="team-items">
- <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="btn" style="color: rgba(0, 255, 200, 0.7); background-color: rgba(0, 255, 200, 0.08); border-color: rgba(0, 255, 200, 0.2);"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
