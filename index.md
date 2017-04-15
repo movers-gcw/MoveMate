@@ -43,20 +43,13 @@ A short video tutorial below:
 ...
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: $header-heading-color; text-align: center;">
-<style>
-btn.profile { 
-color: rgba(0, 255, 200, 0.7); 
-background-color: rgba(0, 255, 200, 0.08); 
-border-color: rgba(0, 255, 200, 0.2);
-}
-</style>
 Hi every body!
 
 We are:
 
 <section id="team-items">
- <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="btn" style="bored-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="btn" style="bored-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="btn" style="bored-color: rgba(0, 0, 0,0.2);"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
