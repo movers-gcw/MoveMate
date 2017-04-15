@@ -48,7 +48,7 @@ A short video tutorial below:
  <section id="team-items">
  
    <section class="btn">
-     <section class="btn" style="margin: 0; padding: 0;border-color: rgba(0, 0, 0,0.2);"><img src="david-pic.jpg" alt="su" width="150"> </section>
+    <img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="david-pic.jpg" alt="su" width="150">
     <section class="btn" style="text-align: left;">
     <h3 style="color: black;">Davide Iannotta</h3>
     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
@@ -57,7 +57,7 @@ A short video tutorial below:
    </section>
    <br>
    <section class="btn">
-     <section class="btn" style="margin: 0; padding: 0;border-color: rgba(0, 0, 0,0.2);"><img src="edo-pic.jpg" alt="su" width="150"> </section>
+    <img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150">
     <section class="btn" style="text-align: left;">
     <h3 style="color: black;">Edoardo Puglisi</h3>
     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
