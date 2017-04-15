@@ -1,4 +1,4 @@
-<h1 id="top1"> MoveMate Project </h1>
+<h1 id="project"> MoveMate Project </h1>
 
 MoveMate helps you to find other student to share your daily trip with.
 * Carry other students with your Car/Moto and split the costs
@@ -6,7 +6,7 @@ MoveMate helps you to find other student to share your daily trip with.
 
 MoveMate is an application made for university students that will allow to get in touch with other colleagues and plan a trip to the university together.
  
-<h1 id="top2"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> How it works </h1>
+<h1 id="how-works"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> How it works </h1>
 
 MoveMate can be installed on all devices with an **Android operating system, from 5.0 version, onwards.** <br>
 When you will open it for the first time, you will have to log-in with your **facebook account**, enter your phone number and your institutional email address and the game will be done!
@@ -36,11 +36,11 @@ By pressing maker or mate's icon you will be able to also view his informations 
 A short video tutorial below:
 ..[video]..
 
-<h1 id="top3"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Architecture overview </h1>
+<h1 id="arch-view"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Architecture overview </h1>
 ...
 
-<h1 id="top4"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
+<h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
 
-<h1 id="top5"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
+<h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 ...
