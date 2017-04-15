@@ -43,4 +43,12 @@ A short video tutorial below:
 ...
 
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
-...
+
+Hi every body!
+We are:
+
+<section id="team-items" class="btn">
+ <h3 class="btn">Davide</h3>
+ <h3 class="btn">Edoardo</h3>
+ <h3 class="btn">Andrea</h3>
+</section>
