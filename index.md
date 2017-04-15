@@ -42,27 +42,15 @@ A short video tutorial below:
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
-<section class="site-footer page-header">
+<section class="site-footer">
 
 Hi every body!
 
 We are:
 
 <section id="team-items">
- <h3 class="btn"><img style="{ 
-  border: 1px solid #000; 
-  padding: 5px;
-  border-image: url(http://i.imgur.com/47XjVA5l.jpg)
-}" src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="btn"><img style="{ 
-  border: 1px solid #000; 
-  padding: 5px;
-  border-image: url(http://i.imgur.com/47XjVA5l.jpg)
-}" src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="btn"><img style="{ 
-  border: 1px solid #000; 
-  padding: 5px;
-  border-image: url(http://i.imgur.com/47XjVA5l.jpg)
-}" src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
