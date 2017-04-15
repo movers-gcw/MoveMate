@@ -61,25 +61,25 @@ A short video tutorial below:
    <br>
    <table>
     <tr>
-     <td><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="david-pic.jpg" alt="su" width="150"></td>
-     <td width="400"><section class="btn" style="text-align: left;">
+     <td style="border: 0;"><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="david-pic.jpg" alt="su" width="150"></td>
+     <td width="400" style="border: 0;"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Davide Iannotta</h3>
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
      </section></td>
-     <td><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
+     <td style="border: 0;"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
     </tr>
    </table>
    <br>
    <table>
     <tr>
-     <td><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150"></td>
-     <td width="400"><section class="btn" style="text-align: left;">
+     <td style="border: 0;"><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150"></td>
+     <td width="400" style="border: 0;"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Edoardo Puglisi</h3>
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
      </section></td>
-     <td><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
+     <td style="border: 0;"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
     </tr>
    </table>
      
