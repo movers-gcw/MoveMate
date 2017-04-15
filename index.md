@@ -42,15 +42,15 @@ A short video tutorial below:
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 ...
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
-<section class="site-footer" style="color: $header-heading-color; text-align: center; background-color: 99FFCC;">
+<section class="site-footer" style="color: $header-heading-color; text-align: center;">
 
 Hi every body!
 
 We are:
 
 <section id="team-items">
- <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
- <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
- <h3 class="btn"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
+ <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Davide</h3>
+ <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Edoardo</h3>
+ <h3 class="profile"><img src="logo.gif" alt="su" width="50"><br>Andrea</h3>
 </section>
 </section>
