@@ -47,7 +47,7 @@ A short video tutorial below:
 
  <section id="team-items">
  
-   <table border="1" rules="rows">
+   <table border="0">
     <tr>
      <td><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="andr-pic.jpg" alt="su" width="150"></td>
      <td width="400"><section class="btn" style="text-align: left;">
