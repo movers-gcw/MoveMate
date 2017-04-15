@@ -43,7 +43,7 @@ A short video tutorial below:
 ...
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: $header-heading-color; text-align: center;">
-
+<link href="/assets/css/style.scss" rel="stylesheet" type="text/css">
 Hi every body!
 
 We are:
