@@ -6,7 +6,7 @@ MoveMate helps you to find other student to share your daily trip with.
 
 MoveMate is an application made for university students that will allow to get in touch with other colleagues and plan a trip to the university together.
 
-[![](https://raw.githubusercontent.com/movers-gcw/movers-gcw.github.io/master/vector-icon.png)|width="20"](#top1) <h1 id="top2"> How it works </h1>
+[![](https://raw.githubusercontent.com/movers-gcw/movers-gcw.github.io/master/vector-icon.png|width="20")](#top1) <h1 id="top2"> How it works </h1>
 
 MoveMate can be installed on all devices with an **Android operating system, from 5.0 version, onwards.** <br>
 When you will open it for the first time, you will have to log-in with your **facebook account**, enter your phone number and your institutional email address and the game will be done!
