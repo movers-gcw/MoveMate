@@ -60,7 +60,7 @@ If you should be interested to see how we wrote MoveMate, you could see our [git
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at Roma Tre</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
      </section></td>
-     <td style="border: 0;" width="150px"><section class="btn"><img src="logoromatre.png" alt="uni" width="100"></section></td>
+     <td style="border: 0;" width="190px"><section class="btn"><img src="logoromatre.png" alt="uni" width="190px"></section></td>
     </tr>
    </table>
    <br>
@@ -72,7 +72,7 @@ If you should be interested to see how we wrote MoveMate, you could see our [git
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
      </section></td>
-     <td style="border: 0;" width="150px"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
+     <td style="border: 0;" width="190px"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="190px"></section></td>
     </tr>
    </table>
    <br>
@@ -84,7 +84,7 @@ If you should be interested to see how we wrote MoveMate, you could see our [git
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
      </section></td>
-     <td style="border: 0;" width="150px"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="100"></section></td>
+     <td style="border: 0;" width="190px"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="190px"></section></td>
     </tr>
    </table>
      
