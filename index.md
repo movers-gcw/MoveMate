@@ -6,6 +6,7 @@ MoveMate helps you to find other student to share your daily trip with.
 
 MoveMate is an application made for university students that will allow to get in touch with other colleagues and plan a trip to the university together.
  
+<!-- How it works -->
 <h1 id="how-works"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> How it works </h1>
 
 MoveMate can be installed on all devices with an **Android operating system, from 5.0 version, onwards.** <br>
@@ -36,13 +37,16 @@ By pressing maker or mate's icon you will be able to also view his informations 
 A short video tutorial below:
 ..[video]..
 
+<!-- Architecture overview -->
 <h1 id="arch-view"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Architecture overview </h1>
 ...
 
+<!-- Installation & source code -->
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
-By clicking here: []() you will be redirected to **MoveMate Google Play page** where you be able to install MoveMate.
-If you should be interested to see how we wrote our application, you could see our [github page <img src="github_button.png" alt="uni" width="50"> ](https://github.com/movers-gcw)
+By clicking here: <a href=""><img src="playstorebutton.png" alt="googleplay" width="70"></a> you will be redirected to **MoveMate Google Play page** where you be able to install MoveMate.
+If you should be interested to see how we wrote our application, you could see our [github page <img src="github_button.png" alt="githublogo" width="50"> ](https://github.com/movers-gcw)
 
+<!-- Team Presentation -->
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: gray; text-align: left;">
 
