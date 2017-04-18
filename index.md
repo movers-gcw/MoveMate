@@ -52,41 +52,44 @@ If you are interested to know more about MoveMate implementation, see our [githu
 
  <section id="team-items">
  
-   <table>
-    <tr>
-     <td style="border: 0;" width="200px"><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="andr-pic.jpg" alt="su" width="150"></td>
-     <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
+ <table>
+  <tr>
+   <td style="border: 0; padding: 0;" width="150px">
+    <img style="border: 1px solid; border-radius: 5px; border-color: rgba(0, 0, 0,0.2);" src="andr-pic.jpg" alt="su" width="150">
+    <img src="logoromatre.png" alt="uni" width="30%" style="position: relative; opacity: 0.7; bottom: 69px;">
+   </td>
+   <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Andrea Bagordo</h3>
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at Roma Tre</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
      </section></td>
-     <td style="border: 0;" width="190px"><section class="btn"><img src="logoromatre.png" alt="uni" width="190px"></section></td>
-    </tr>
-   </table>
-   <br>
-   <table>
+  </tr></table>
+   
+  <br>
+  <table>
     <tr>
-     <td style="border: 0;" width="200px"><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="david-pic.jpg" alt="su" width="150"></td>
+     <td style="border: 0; padding: 0;" width="150px">
+      <img style="border: 1px solid; border-radius: 5px; border-color: rgba(0, 0, 0,0.2);" src="david-pic.jpg" alt="su" width="150">
+      <img src="sapienzaicon.png" alt="uni" width="30%" style="position: relative; opacity: 0.7; bottom: 58px;">
+</td>
      <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Davide Iannotta</h3>
      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
-     </section></td>
-     <td style="border: 0;" width="190px"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="190px"></section></td>
-    </tr>
-   </table>
-   <br>
-   <table>
-    <tr>
-     <td style="border: 0;" width="200px"><img class="btn" style="margin: 0; padding: 0; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150"></td>
+     </section></td></tr></table>
+   
+  <br>
+  <table>
+   <tr>
+     <td style="border: 0; padding: 0; " width="150px">
+      <img style="border: 1px solid; border-radius: 5px; border-color: rgba(0, 0, 0,0.2);" src="edo-pic.jpg" alt="su" width="150">
+      <img src="sapienzaicon.png" alt="uni" width="30%" style="position: relative; opacity: 0.7; bottom: 58px;">
+     </td>
      <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
-     <h3 style="color: black;">Edoardo Puglisi</h3>
-     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
-     <h4 style="color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
-     </section></td>
-     <td style="border: 0;" width="190px"><section class="btn"><img src="sapienzaicon.jpg" alt="uni" width="190px"></section></td>
-    </tr>
-   </table>
+      <h3 style="color: black;">Edoardo Puglisi</h3>
+      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
+      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
+      </section></td></tr></table>
      
  </section>
 </section>
