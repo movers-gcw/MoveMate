@@ -60,8 +60,8 @@ If you are interested to know more about MoveMate implementation, see our [githu
    </td>
    <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Andrea Bagordo</h3>
-     <h4 style="color: gray; font-style: italic;">Computer Engineering student at Roma Tre</h4>
-     <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
+     <h4 style="margin: 0; color: gray; font-style: italic;">Computer Engineering student at Roma Tre</h4>
+     <h4 style="margin: 0; color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
      </section></td></tr></tbody></table>
    
   <br>
@@ -73,8 +73,8 @@ If you are interested to know more about MoveMate implementation, see our [githu
 </td>
      <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
      <h3 style="color: black;">Davide Iannotta</h3>
-     <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
-     <h4 style="color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
+     <h4 style="margin: 0; color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
+     <h4 style="margin: 0; color: gray; font-style: italic; font-weight: Bold;">Back-end Developer with ASP.NET &amp; Entity framework</h4>
      </section></td></tr></tbody></table>
    
   <br>
@@ -86,8 +86,8 @@ If you are interested to know more about MoveMate implementation, see our [githu
      </td>
      <td width="400px" style="border: 0;"><section class="btn" style="text-align: left;">
       <h3 style="color: black;">Edoardo Puglisi</h3>
-      <h4 style="color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
-      <h4 style="color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
+      <h4 style="margin: 0; color: gray; font-style: italic;">Computer Engineering student at La Sapienza</h4>
+      <h4 style="margin: 0; color: gray; font-style: italic; font-weight: Bold;">Front-end Android Developer</h4>
       </section></td></tr></tbody></table>
      
  </section>
