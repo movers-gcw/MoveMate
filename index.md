@@ -44,7 +44,7 @@ A short video tutorial below:
 <!-- Installation & source code -->
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
 By clicking here: <a href="https://play.google.com/store/apps/details?id=app.movemate&hl=it"><img src="playstorebutton.png" alt="googleplay" width="100"></a> you will redirected to **MoveMate Google Play page** where you will be able to execute the installation.
-If you are interested to know how we wrote MoveMate, see our [github page <img src="github_button.png" alt="githublogo" width="30"> ](https://github.com/movers-gcw)
+If you are interested to know more about MoveMate implementation, see our [github page <img src="github_button.png" alt="githublogo" width="30"> ](https://github.com/movers-gcw)
 
 <!-- Team Presentation -->
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
