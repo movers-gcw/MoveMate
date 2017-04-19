@@ -56,7 +56,7 @@ By clicking here: <a href="https://play.google.com/store/apps/details?id=app.mov
 If you are interested to know more about MoveMate implementation, see our [github page <img src="github_button.png" alt="githublogo" width="30"> ](https://github.com/movers-gcw)
 
 ## Feedback
-If you already signed-up, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfO1ji527b9swJuDaUcQwbIOfQB8SUK0CYIQulFwFD-nLU0ow/viewform?c=0&w=1" style="border: 1px solid; border-radius: 5px; border-color: rgba(0, 0, 0,0.2); background-color: rgba(50, 205, 50,0.2);  color: white;" >send a feedback</a> about your MoveMate experience. 
+If you already signed-up, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfO1ji527b9swJuDaUcQwbIOfQB8SUK0CYIQulFwFD-nLU0ow/viewform?c=0&w=1" style="border: 1px solid; border-radius: 5px; border-color: rgba(0, 0, 0,0.2); background-color: rgba(50, 205, 50,0.7);  color: white; padding: 4px;" >send a feedback</a> about your MoveMate experience. 
 
 <!-- Team Presentation -->
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
