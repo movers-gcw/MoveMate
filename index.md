@@ -55,6 +55,9 @@ For more informations, see the [italian user documentation](https://drive.google
 By clicking here: <a href="https://play.google.com/store/apps/details?id=app.movemate&hl=it"><img src="playstorebutton.png" alt="googleplay" width="100"></a> you will redirected to **MoveMate Google Play page** where you will be able to execute the installation.
 If you are interested to know more about MoveMate implementation, see our [github page <img src="github_button.png" alt="githublogo" width="30"> ](https://github.com/movers-gcw)
 
+## Feedback
+If you already signed-up, <h3 style="border: 1px solid; border-radius: 5px; border-color: rgba(0, 0, 0,0.2); color: white;" >send a feedback</h3> about your MoveMate experience. 
+
 <!-- Team Presentation -->
 <h1 id="team"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Team presentation </h1>
 <section class="site-footer" style="color: gray; text-align: left;">
