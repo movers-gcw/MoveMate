@@ -42,13 +42,13 @@ By pressing maker or mate's icon you will be able to also view his informations 
 
 A short video tutorial below:
 
-..[video]..
+..coming soon..
 
 For more informations, see the [italian user documentation](https://drive.google.com/open?id=1sDPHdG0VMDcI5hbrCw1KQ4XKIJimZtGvGRbOCgYGePQ) or [english user documentation](https://drive.google.com/open?id=1f8GNwhQbvDSFEMoDLIh3-HbcW-VEwGQoPhGM1FFcUpQ).
 
 <!-- Architecture overview -->
 <h1 id="arch-view"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Architecture overview </h1>
-...
+..coming soon..
 
 <!-- Installation & source code -->
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
