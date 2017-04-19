@@ -5,7 +5,13 @@ MoveMate helps you to find other student to share your daily trip with.
 * Find students who walk your own road and take the same transport with them
 
 MoveMate is an application made for university students that will allow to get in touch with other colleagues and plan a trip to the university together.
- 
+
+MoveMate project was thought in 2016/2017 year during the Google Workshop, by three computer engineering students, focused on creation of a simple and helpful thing.
+You will be able to find project milestones below, during which project took shape:
+* [First Milestone](https://1drv.ms/p/s!Arh0UdVHsGBcoE9vPJzfm2qYVc80)
+* [Second Milestone](https://1drv.ms/p/s!Arh0UdVHsGBcoGjKhkq51oPmD5cM)
+* [Third Milestone](https://drive.google.com/open?id=0B6reVBh6T0JXLThqQjZJN0NrMXc)
+
 <!-- How it works -->
 <h1 id="how-works"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> How it works </h1>
 
