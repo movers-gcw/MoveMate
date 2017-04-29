@@ -49,7 +49,9 @@ For more informations, see the [italian user documentation](https://drive.google
 <!-- Architecture overview -->
 <h1 id="arch-view"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Architecture overview </h1>
 MoveMate has been structured on a simple **CLIENT – SERVER** architecture, with an Azure application server and an Android client.
+<br>
 Azure provides some API to handle requests from Android client.
+<br>
 Android client calls this APIs to exchange information with Azure server.
 
 All user information and computing operations will be done on server to reserve only data view to the client.
@@ -58,9 +60,10 @@ APIs provided by the server maps the CRUD paradigm, offering some operations suc
 * Student posting 
 * Route posting
 * Route deleting
+<br>
 and others.
 
-***Architecture view below:***
+*Architecture view below:*
 ![architecture image](Architectureview.png)
 
 To improve security, every data exchange between client and server is **encrypted using HTTPS** and the **client’s API calls must include a user identifier token** to be accepted from the server.
