@@ -61,7 +61,7 @@ APIs provided by the server maps the CRUD paradigm, offering some operations suc
 and others.
 
 ***Architecture view below:***
-![architecture image](architectureview.png)
+![architecture image](Architectureview.png)
 
 To improve security, every data exchange between client and server is **encrypted using HTTPS** and the **client’s API calls must include a user identifier token** to be accepted from the server.
 
