@@ -60,7 +60,8 @@ APIs provided by the server maps the CRUD paradigm, offering some operations suc
 * Student posting 
 * Route posting
 * Route deleting
-<br>
+
+
 and others.
 
 *Architecture view below:*
