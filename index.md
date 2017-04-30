@@ -42,9 +42,9 @@ By pressing maker or mate's icon you will be able to also view his informations 
 
 A short video tutorial below:
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/0BxBf-ekgpA4gT1FhMERJSmRSNTQ/view?usp=sharing" type="video/mp4">
-Your browser does not support the video tag.
+<video align="center" width="420" height="340" controls>
+  <source src="https://drive.google.com/open?id=0BxBf-ekgpA4galFwN3g5Q3ZnVFU" type="video/mp4">
+Your browser does not support the video tag. <br>
 </video>
 
 For more informations, see the [italian user documentation](https://drive.google.com/open?id=1sDPHdG0VMDcI5hbrCw1KQ4XKIJimZtGvGRbOCgYGePQ) or [english user documentation](https://drive.google.com/open?id=1f8GNwhQbvDSFEMoDLIh3-HbcW-VEwGQoPhGM1FFcUpQ).
