@@ -42,7 +42,10 @@ By pressing maker or mate's icon you will be able to also view his informations 
 
 A short video tutorial below:
 
-..coming soon..
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/0BxBf-ekgpA4gT1FhMERJSmRSNTQ/view?usp=sharing" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 For more informations, see the [italian user documentation](https://drive.google.com/open?id=1sDPHdG0VMDcI5hbrCw1KQ4XKIJimZtGvGRbOCgYGePQ) or [english user documentation](https://drive.google.com/open?id=1f8GNwhQbvDSFEMoDLIh3-HbcW-VEwGQoPhGM1FFcUpQ).
 
