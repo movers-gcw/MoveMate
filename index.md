@@ -43,7 +43,7 @@ By pressing maker or mate's icon you will be able to also view his informations 
 A short video tutorial below:
 
 <video align="center" width="420" height="340" controls>
-  <source src="https://drive.google.com/open?id=0BxBf-ekgpA4galFwN3g5Q3ZnVFU" type="video/mp4">
+  <source src="https://youtu.be/zRjQwx899GY" type="video/mp4">
 Your browser does not support the video tag. <br>
 </video>
 
