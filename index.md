@@ -69,7 +69,7 @@ and others.
 
 To improve security, every data exchange between client and server is **encrypted using HTTPS** and the **client’s API calls must include a user identifier token** to be accepted from the server.
 
-For more informations, see the [technical documentation](https://drive.google.com/open?id=0BxBf-ekgpA4gQ0ZNZmFCU2p5djQ).
+For more informations, see the [technical documentation](https://drive.google.com/open?id=0B6reVBh6T0JXMk1JSGludTM1X2s).
 
 <!-- Installation & source code -->
 <h1 id="install-source"><a href="#menu"><img src="vector-icon.png" alt="su" width="20"></a> Installation &amp; source code </h1>
